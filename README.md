@@ -4,11 +4,8 @@ Algoritma ve Programlama dersi grup ödevi. Program, verilen süreç listesini *
 
 ## Grup Üyeleri
 
-| Ad Soyad | Sorumlu olduğu bölüm |
-|---|---|
-| (isim yazın) | (algoritma ve fonksiyonlar) |
-| (isim yazın) | (algoritma ve fonksiyonlar) |
-| (isim yazın) | (algoritma ve fonksiyonlar) |
+- Ad Soyad
+- Ad Soyad
 
 ## Derleme ve Çalıştırma
 
