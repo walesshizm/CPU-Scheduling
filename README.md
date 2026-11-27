@@ -4,8 +4,8 @@ Algoritma ve Programlama dersi grup ödevi. Program, verilen süreç listesini *
 
 ## Grup Üyeleri
 
-- Mert SEVİNÇ
 - Çiğdem AYDIN
+- Mert SEVİNÇ
 
 ## Derleme ve Çalıştırma
 
